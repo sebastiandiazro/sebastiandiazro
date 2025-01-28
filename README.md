@@ -9,7 +9,7 @@
 
 ### 💼 Habilidades:
 
-*   📊 Análisis de datos: Python, Power BI, Excel.
+*   📊 Análisis de datos: Python, Power BI, SQL, Excel.
 *   🤖 IA: Curioso sobre cómo integrar inteligencia artificial en proyectos de marketing y deporte.
 
 ### 🚀 Proyectos Destacados:
